@@ -9,3 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - requests
+    - beautifulsoup4
+    - PyMySQL
